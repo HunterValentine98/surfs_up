@@ -14,4 +14,4 @@ In this analysis, W. Avy wants more information about temperature trends before 
 
 
 ## Summary
-
+These results further provide support for W. Avy opening his surf shop. All 3 key differences, as seen above, are not that crucial of a difference. I would suggest doing a few more queries to make sure the shop will do well. The first query I would recommend would be the hours of sunlight in December and June. People (most of the time) attend the beach while the sun is out. Knowing the hours people will be at the beach is crucial. The second query I would recommend would be what the temperature actually feels like. Sea breezes from the ocean often produce winds that make it feel colder than it actually is. By looking at what it actually feels like (accounting for wind and potential humidity), we can more accurately look at what beachgoers experience in terms of weather.
