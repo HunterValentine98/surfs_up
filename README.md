@@ -5,8 +5,8 @@ In this analysis, W. Avy wants more information about temperature trends before 
 
 ## Results
 ### Key Differences between June and December
-![June Temperatures](June_Temps.png)
-![December Temps](December_Temps.png)
+![June Temperatures](June_Temps.PNG)
+![December Temperatures](December_Temps.PNG)
 
 
 ## Summary
